@@ -1,4 +1,4 @@
-# Tuseday 23.05.2022
+# Tuseday 24.05.2022
   
  - **Advanced Functions**
    - Closure

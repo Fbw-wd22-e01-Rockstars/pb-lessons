@@ -6,8 +6,9 @@
    - Recursion (recap)
   
 
-- Notes [closure](closure.md)
-- Notes [recursion](recursion.md)
+- Notes [callback](https://github.com/Fbw-wd22-e01-Rockstars/pb-lessons/blob/main/May/23.05.2022/callback.md)
+- Notes [closure](https://github.com/Fbw-wd22-e01-Rockstars/pb-lessons/blob/main/May/24.05.2022/closure.md)
+- Notes [recursion](https://github.com/Fbw-wd22-e01-Rockstars/pb-lessons/blob/main/May/24.05.2022/closure.md)
  
 
 ---
